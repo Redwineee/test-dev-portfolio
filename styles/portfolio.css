@@ -148,3 +148,11 @@ main{
 .skill-description{
     color:#757575
 }
+
+/*Resume Section Styles*/
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+
+}
